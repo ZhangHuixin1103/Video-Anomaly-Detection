@@ -38,6 +38,8 @@ https://docs.google.com/document/d/1gzF_MX23FH7GLBQUonJaQUyu-8-0hov1BHAe2_zI-zY/
 
 - evaluation metrics
 
+  - AUC-ROC
+
   - precision, accuracy, mean average precision, recall, top-K accuracy, etc
 
 
