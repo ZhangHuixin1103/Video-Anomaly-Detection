@@ -46,7 +46,7 @@ https://docs.google.com/document/d/1gzF_MX23FH7GLBQUonJaQUyu-8-0hov1BHAe2_zI-zY/
 
 |   Name   |   Link   |  # of videos  |  Length  | Ave Frames |   Label   |  Anomalies  |
 | :------: | :------: | :-----------: | :------: | :------------: | :-------: | :---------: |
-| [ShanghaiTech](https://svip-lab.github.io/dataset/campus_dataset.html) | [GitHub](https://github.com/StevenLiuWen/ano_pred_cvpr2018) | 437 (330 / 107) || 726 |||
+| [ShanghaiTech](https://svip-lab.github.io/dataset/campus_dataset.html) | [GitHub](https://github.com/StevenLiuWen/ano_pred_cvpr2018) | 437 (330 / 107) | -- | 726 | Pixel-level | 13 scenes, 130 abnormal events |
 | [UCSD Peds1&2](http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm) | [Paper](http://www.svcl.ucsd.edu/publications/conference/2010/cvpr2010/cvpr_anomaly_2010.pdf) | 70 (34 / 36), 28 (16 / 12) | 5 min | 200, 163 | Frame-level | Biker, Skater, Cart, Wheelchair, People walking across a walkway / in the grass|
 | [CUHK Avenue](http://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html) | [Paper](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Lu_Abnormal_Event_Detection_2013_ICCV_paper.pdf) | 37 (16 / 21) | 30 min | 839 | Train videos capture normal situations; Test videos include both normal and abnormal events | Strange action, Wrong direction, Abnormal object |
 | [UBnormal](https://github.com/lilygeorgescu/UBnormal/) | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Acsintoae_UBnormal_New_Benchmark_for_Supervised_Open-Set_Video_Anomaly_Detection_CVPR_2022_paper.pdf) |
