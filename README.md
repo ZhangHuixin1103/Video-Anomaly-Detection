@@ -1,5 +1,9 @@
 # Video-Anomaly-Detection
 
+## Zoom
+
+https://tamu.zoom.us/j/9876585850
+
 ## Shared Doc for Meeting
 
 https://docs.google.com/document/d/1gzF_MX23FH7GLBQUonJaQUyu-8-0hov1BHAe2_zI-zY/
