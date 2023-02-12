@@ -53,3 +53,21 @@ https://docs.google.com/document/d/1gzF_MX23FH7GLBQUonJaQUyu-8-0hov1BHAe2_zI-zY/
 | [UCF-Crime](https://www.crcv.ucf.edu/research/real-world-anomaly-detection-in-surveillance-videos/) | [GitHub](https://github.com/WaqasSultani/AnomalyDetectionCVPR2018) | 1900 | 128 hr | 7247 | Weakly labeled, video-level | Abuse, Arrest, Arson, Assault, Road Accident, Burglary, Explosion, Fighting, Robbery, Shooting, Stealing, Shoplifting, Vandalism |
 | [UBI-Fights](http://socia-lab.di.ubi.pt/EventDetection/) | [GitHub](https://github.com/DegardinBruno/human-self-learning-anomaly) | 1000 | 80 hr | -- | Frame-level | Fight |
 | [XD-Violence](https://roc-ng.github.io/XD-Violence/) | [GitHub](https://github.com/Roc-Ng/XDVioDet) | 4754 | 217 hr | -- | Weakly labeled; Assign multi labels (1 ≤ #labels ≤ 3) to each video owing to co-occurrence | Abuse, Car Accident, Explosion, Fighting, Riot, Shooting |
+
+## Paper
+
+|   Name   |  GitHub  |  Dataset  | Supervised |
+| :------: | :------: | :-------: | :--------: |
+| [MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection](https://arxiv.org/pdf/2104.01633.pdf) | []() |  |  |
+| []() | []() |  |  |
+| []() | []() |  |  |
+| []() | []() |  |  |
+| []() | []() |  |  |
+| []() | []() |  |  |
+| []() | []() |  |  |
+| []() | []() |  |  |
+| []() | []() |  |  |
+| []() | []() |  |  |
+| []() | []() |  |  |
+| []() | []() |  |  |
+| []() | []() |  |  |
