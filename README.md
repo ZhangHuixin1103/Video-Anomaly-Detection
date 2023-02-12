@@ -1,6 +1,6 @@
 # Video-Anomaly-Detection
 
-## Zoom
+## Zoom Link
 
 https://tamu.zoom.us/j/9876585850
 
