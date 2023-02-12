@@ -26,7 +26,7 @@ https://docs.google.com/document/d/1gzF_MX23FH7GLBQUonJaQUyu-8-0hov1BHAe2_zI-zY/
 
   - Another setup can be that we train a model on both labeled normal and anomalous events, and hope the trained model to detect the same types of anomalous events during testing.
 
-  - Extending the above, we can do open-set anomaly detection where we have normal and some known anomalous labeled events for training, but must detect unknown anomalous events in testing. Yet, we hope the trained model will be able to detect/recognize unknown/unseen anomalous events.
+  - Extending the above, we can do [open-set anomaly detection](https://arxiv.org/pdf/2208.11113.pdf) where we have normal and some known anomalous labeled events for training, but must detect unknown anomalous events in testing. Yet, we hope the trained model will be able to detect/recognize unknown/unseen anomalous events.
 
 - testing setup
 
