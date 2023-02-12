@@ -58,8 +58,8 @@ https://docs.google.com/document/d/1gzF_MX23FH7GLBQUonJaQUyu-8-0hov1BHAe2_zI-zY/
 
 |   Name   |  GitHub  |  Dataset  | Supervised |  Grained  |  Details  | Evaluation |
 | :------: | :------: | :-------: | :--------: | :-------: | :-------: | :--------: |
-| [MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection](https://arxiv.org/pdf/2104.01633.pdf) | [MIST_VAD](https://github.com/fjchange/MIST_VAD) | UCF-Crime, ShanghaiTech | Weak | Fine | MIST can refine task-specific discriminative representations with only video-level annotations. MIST is composed of 1) a multiple instance pseudo label generator, which produces more reliable clip-level pseudo labels, and 2) a self-guided attention boosted feature encoder to automatically focus on anomalous regions in frames while extracting task-specific representations. We adopt a self-training scheme to optimize both components and finally obtain a task-specific feature encoder. | AUC-ROC, False Alarm Rate (FAR) |
-| []() | []() |  |  |  |  |  |
+| [MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection](https://arxiv.org/pdf/2104.01633.pdf) | [MIST_VAD](https://github.com/fjchange/MIST_VAD) | UCF-Crime, ShanghaiTech | Weak | Fine | MIST can refine task-specific discriminative representations with only video-level annotations. MIST is composed of 1) a multiple instance clip-level pseudo label generator, and 2) a self-guided attention boosted feature encoder to automatically focus on anomalous regions in frames while extracting task-specific representations. We adopt a self-training scheme to optimize both components and finally obtain a task-specific feature encoder. | AUC-ROC, False Alarm Rate (FAR) |
+| [Anomaly Detection in Video via Self-Supervised and Multi-Task Learning](https://arxiv.org/pdf/2011.07491.pdf) | [AED-SSMTL](https://github.com/lilygeorgescu/AED-SSMTL) | CUHK Avenue, ShanghaiTech, UCSD Ped2 | Self |  |  | Frame-level AUC, RBDC, TBDC |
 | []() | []() |  |  |  |  |  |
 | []() | []() |  |  |  |  |  |
 | []() | []() |  |  |  |  |  |
