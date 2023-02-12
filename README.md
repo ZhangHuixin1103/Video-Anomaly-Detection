@@ -56,18 +56,18 @@ https://docs.google.com/document/d/1gzF_MX23FH7GLBQUonJaQUyu-8-0hov1BHAe2_zI-zY/
 
 ## Paper
 
-|   Name   |  GitHub  |  Dataset  | Supervised |
-| :------: | :------: | :-------: | :--------: |
-| [MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection](https://arxiv.org/pdf/2104.01633.pdf) | []() |  |  |
-| []() | []() |  |  |
-| []() | []() |  |  |
-| []() | []() |  |  |
-| []() | []() |  |  |
-| []() | []() |  |  |
-| []() | []() |  |  |
-| []() | []() |  |  |
-| []() | []() |  |  |
-| []() | []() |  |  |
-| []() | []() |  |  |
-| []() | []() |  |  |
-| []() | []() |  |  |
+|   Name   |  GitHub  |  Dataset  | Supervised | Evaluation |
+| :------: | :------: | :-------: | :--------: | :--------: |
+| [MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection](https://arxiv.org/pdf/2104.01633.pdf) | [MIST_VAD](https://github.com/fjchange/MIST_VAD) |  |  |  |
+| []() | []() |  |  |  |
+| []() | []() |  |  |  |
+| []() | []() |  |  |  |
+| []() | []() |  |  |  |
+| []() | []() |  |  |  |
+| []() | []() |  |  |  |
+| []() | []() |  |  |  |
+| []() | []() |  |  |  |
+| []() | []() |  |  |  |
+| []() | []() |  |  |  |
+| []() | []() |  |  |  |
+| []() | []() |  |  |  |
