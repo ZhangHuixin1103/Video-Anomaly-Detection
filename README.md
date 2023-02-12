@@ -44,16 +44,12 @@ https://docs.google.com/document/d/1gzF_MX23FH7GLBQUonJaQUyu-8-0hov1BHAe2_zI-zY/
 
 ## Dataset
 
-|           Name           |                DownloadLink                |
-| :----------------------: | :----------------------------------------: |
+|           Name           |                Link                |
+| :----------------------: | :--------------------------------: |
 | [ShanghaiTech](https://svip-lab.github.io/dataset/campus_dataset.html) | [GitHub](https://github.com/StevenLiuWen/ano_pred_cvpr2018) |
+| [UCSD Peds1&2](http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm) | [Paper](http://www.svcl.ucsd.edu/publications/conference/2010/cvpr2010/cvpr_anomaly_2010.pdf) |
+| [CUHK Avenue](http://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html) | [Paper](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Lu_Abnormal_Event_Detection_2013_ICCV_paper.pdf) |
+| [UBnormal](https://github.com/lilygeorgescu/UBnormal/) | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Acsintoae_UBnormal_New_Benchmark_for_Supervised_Open-Set_Video_Anomaly_Detection_CVPR_2022_paper.pdf) |
 | [UCF-Crime](https://www.crcv.ucf.edu/research/real-world-anomaly-detection-in-surveillance-videos/) | [GitHub](https://github.com/WaqasSultani/AnomalyDetectionCVPR2018) |
-
-
-
-
-
-
-
-
-
+| [UBI-Fights](http://socia-lab.di.ubi.pt/EventDetection/) | [GitHub](https://github.com/DegardinBruno/human-self-learning-anomaly) |
+| [XD-Violence](https://roc-ng.github.io/XD-Violence/) | [GitHub](https://github.com/Roc-Ng/XDVioDet) |
