@@ -85,85 +85,67 @@ https://docs.google.com/document/d/1gzF_MX23FH7GLBQUonJaQUyu-8-0hov1BHAe2_zI-zY/
 
 |   Model   | Conference | Supervised |  Feature  |  AUC (%)  |  FAR (%)  |
 | :-------: | :--------: | :--------: | :-------: | :-------: | :-------: |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
+| [MIST](https://arxiv.org/pdf/2104.01633.pdf) | CVPR 21 | Weakly | I3D RGB | 82.30 | 0.13 |
+| [BN-SVP](https://arxiv.org/pdf/2203.12840.pdf) | CVPR 22 | Weakly | I3D | 83.39 | -- |
+| [GCL](https://arxiv.org/pdf/2203.03962.pdf) | CVPR 22 | Un | ResNext | 71.04 | -- |
+| [CRF](https://openaccess.thecvf.com/content/ICCV2021/papers/Purwanto_Dance_With_Self-Attention_A_New_Look_of_Conditional_Random_Fields_ICCV_2021_paper.pdf) | ICCV 21 | Weakly | Relation-aware RGB | 85.00 | 0.024 |
+| [RTFM](https://arxiv.org/pdf/2101.10030.pdf) | ICCV 21 | Weakly | I3D RGB | 84.30 | -- |
+| [CLAWS](https://arxiv.org/pdf/2011.12077.pdf) | ECCV 20 | Weakly | C3D RGB | 83.03 | -- |
+| [OpenVAD](https://arxiv.org/pdf/2208.11113.pdf) | ECCV 22 | Weakly | -- | 80.14 | -- |
+| [S3R](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730727.pdf) | ECCV 22 | Weakly | I3D | 85.99 | -- |
+| [Real-World](https://arxiv.org/pdf/2209.06435.pdf) | ICIP 22 | Weakly | I3D RGB | 84.91 | -- |
 
 ### ShanghaiTech
 
 |   Model   | Conference | Supervised |  Feature  |  AUC (%)  |  FAR (%)  |
 | :-------: | :--------: | :--------: | :-------: | :-------: | :-------: |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
+| [MIST](https://arxiv.org/pdf/2104.01633.pdf) | CVPR 21 | Weakly | I3D RGB | 94.83 | 0.05 |
+| [SSMTL](https://arxiv.org/pdf/2011.07491.pdf) | CVPR 21 | Self | -- | 83.5 | -- |
+| [SSPCAB](https://arxiv.org/pdf/2111.09099.pdf) | CVPR 22 | Self | -- | Micro 83.6, Macro 89.5 | -- |
+| [BN-SVP](https://arxiv.org/pdf/2203.12840.pdf) | CVPR 22 | Weakly | C3D | 96.00 | -- |
+| [GCL](https://arxiv.org/pdf/2203.03962.pdf) | CVPR 22 | Un | ResNext | 78.93 | -- |
+| [CRF](https://openaccess.thecvf.com/content/ICCV2021/papers/Purwanto_Dance_With_Self-Attention_A_New_Look_of_Conditional_Random_Fields_ICCV_2021_paper.pdf) | ICCV 21 | Weakly | Relation-aware RGB | 96.85 | 0.004 |
+| [HF2-VAD](https://arxiv.org/pdf/2108.06852.pdf) | ICCV 21 | Un | -- | 76.2 | -- |
+| [RTFM](https://arxiv.org/pdf/2101.10030.pdf) | ICCV 21 | Weakly | I3D RGB | 97.21 | -- |
+| [CLAWS](https://arxiv.org/pdf/2011.12077.pdf) | ECCV 20 | Weakly | C3D RGB | 89.67 | 0.12 |
+| [Few-Shot](https://arxiv.org/pdf/2007.07843.pdf) | ECCV 20 | Un | -- | 77.9 | -- |
+| [Cluster](https://cse.buffalo.edu/~jsyuan/papers/2020/ECCV2020-2341-CameraReady.pdf) | ECCV 20 | Un | -- | 73.3 | -- |
+| [OpenVAD](https://arxiv.org/pdf/2208.11113.pdf) | ECCV 22 | Weakly | -- | 93.99 | -- |
+| [S3R](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730727.pdf) | ECCV 22 | Weakly | I3D | 97.48 | -- |
+| [Jigsaw](https://arxiv.org/pdf/2207.10172.pdf) | ECCV 22 | Self | -- | 84.3 | -- |
+| [Accurate-Interpretable](https://arxiv.org/pdf/2212.00789.pdf) | -- | Self | -- | Micro 85.9, Macro 89.6 | -- |
+| [Real-World](https://arxiv.org/pdf/2209.06435.pdf) | ICIP 22 | Weakly | I3D RGB | 95.72 | -- |
 
 ### CUHK Avenue
 
 |   Model   | Conference | Supervised |  Feature  |  AUC (%)  |  FAR (%)  |
 | :-------: | :--------: | :--------: | :-------: | :-------: | :-------: |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
+| [SSMTL](https://arxiv.org/pdf/2011.07491.pdf) | CVPR 21 | Self | -- | 86.9 | -- |
+| [SSPCAB](https://arxiv.org/pdf/2111.09099.pdf) | CVPR 22 | Self | -- | Micro 92.9, Macro 93.5 | -- |
+| [BN-SVP](https://arxiv.org/pdf/2203.12840.pdf) | CVPR 22 | Weakly | C3D | 80.87 | -- |
+| [HF2-VAD](https://arxiv.org/pdf/2108.06852.pdf) | ICCV 21 | Un | -- | 91.1 | -- |
+| [Few-Shot](https://arxiv.org/pdf/2007.07843.pdf) | ECCV 20 | Un | -- | 85.8 | -- |
+| [Cluster](https://cse.buffalo.edu/~jsyuan/papers/2020/ECCV2020-2341-CameraReady.pdf) | ECCV 20 | Un | -- | 86.0 | -- |
+| [Jigsaw](https://arxiv.org/pdf/2207.10172.pdf) | ECCV 22 | Self | -- | 92.2 | -- |
+| [Accurate-Interpretable](https://arxiv.org/pdf/2212.00789.pdf) | -- | Self | -- | Micro 93.3, Macro 96.2 | -- |
 
-### XD-Violence
+### UCSD Ped2
 
 |   Model   | Conference | Supervised |  Feature  |  AUC (%)  |  FAR (%)  |
 | :-------: | :--------: | :--------: | :-------: | :-------: | :-------: |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
-| []() |  |  |  |  |  |
+| [SSMTL](https://arxiv.org/pdf/2011.07491.pdf) | CVPR 21 | Self | -- | 92.4 | -- |
+| [HF2-VAD](https://arxiv.org/pdf/2108.06852.pdf) | ICCV 21 | Un | -- | 99.3 | -- |
+| [RTFM](https://arxiv.org/pdf/2101.10030.pdf) | ICCV 21 | Weakly | I3D RGB | 98.6 | -- |
+| [Few-Shot](https://arxiv.org/pdf/2007.07843.pdf) | ECCV 20 | Un | -- | 96.2 | -- |
+| [Cluster](https://cse.buffalo.edu/~jsyuan/papers/2020/ECCV2020-2341-CameraReady.pdf) | ECCV 20 | Un | -- | 96.5 | -- |
+| [Jigsaw](https://arxiv.org/pdf/2207.10172.pdf) | ECCV 22 | Self | -- | 99.0 | -- |
+| [Accurate-Interpretable](https://arxiv.org/pdf/2212.00789.pdf) | -- | Self | -- | Micro 99.1, Macro 99.9 | -- |
+
+### XD-Violence
+
+|   Model   | Conference | Supervised |  Feature  |  AP (%)  |
+| :-------: | :--------: | :--------: | :-------: | :------: |
+| [RTFM](https://arxiv.org/pdf/2101.10030.pdf) | ICCV 21 | Weakly | I3D RGB | 77.81 |
+| [OpenVAD](https://arxiv.org/pdf/2208.11113.pdf) | ECCV 22 | Weakly | -- | AUC-PR (%): 69.61 |
+| [S3R](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730727.pdf) | ECCV 22 | Weakly | I3D | 80.26 |
+| [Real-World](https://arxiv.org/pdf/2209.06435.pdf) | ICIP 22 | Weakly | I3D RGB + VGGish | 82.89 |
