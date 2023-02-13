@@ -56,6 +56,8 @@ https://docs.google.com/document/d/1gzF_MX23FH7GLBQUonJaQUyu-8-0hov1BHAe2_zI-zY/
 
 ## Paper
 
+>Existing mainstream VAD techniques are based on either the one-class formulation, which assumes all training data are normal, or weakly-supervised, which requires only video-level normal/anomaly labels.
+
 >Unsupervised models learned solely from normal videos are applicable to any testing anomalies but suffer from a high false positive rate. In contrast, weakly supervised methods are effective in detecting known anomalies but could fail in an open world.
 
 |   Name   |  GitHub  |  Dataset  | Supervised |  Grained  |  Details  | Evaluation |
@@ -69,7 +71,7 @@ https://docs.google.com/document/d/1gzF_MX23FH7GLBQUonJaQUyu-8-0hov1BHAe2_zI-zY/
 | [A Hybrid Video Anomaly Detection Framework via Memory-Augmented Flow Reconstruction and Flow-Guided Frame Prediction](https://arxiv.org/pdf/2108.06852.pdf) | [HF2-VAD](https://github.com/LiUzHiAn/hf2vad) | UCSD Ped2, CUHK Avenue, ShanghaiTech | Un | Coarse | HF2-VAD is a Hybrid framework that integrates Flow Reconstruction and Frame Prediction. First, network of Multi-Level Memory modules in an Autoencoder with Skip Connections can memorize normal patterns for optical flow reconstruction, so that abnormal events can be identified with larger flow reconstruction errors. Then Conditional Variational Autoencode captures the correlation between video frame and optical flow, to predict the next frame given several previous frames. Reconstruction can influence prediction quality! | Frame-level AUROC |
 | [Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning](https://arxiv.org/pdf/2101.10030.pdf) | [RTFM](https://github.com/tianyu0207/RTFM) | ShanghaiTech, UCF-Crime, XD-Violence, UCSD Peds | Weakly | Coarse | RTFM learns a temporal feature magnitude mapping function that 1) detects the rare abnormal snippets from videos containing many normal ones, and 2) guarantees a large margin between normal and abnormal snippets. RTFM also adapts dilated convolutions and self-attention mechanisms to capture long- and short-range temporal dependencies. | Frame-level AUC, Average Precision (AP) |
 | [Towards Open Set Video Anomaly Detection](https://arxiv.org/pdf/2208.11113.pdf) | [Towards-OpenVAD](https://github.com/YUZ128pitt/Towards-OpenVAD) | XD-Violence, UCF-Crime, ShanghaiTech | Weakly | Coarse | Both known anomalies and novel ones exist in testing! We develop a method for OpenVAD problem by integrating evidential deep learning and normalizing flows into a MIL framework. It inherits advantages of both unsupervised NFs and weakly-supervised MIL framework. | AUC-ROC, AUC-PR |
-| []() | []() |  |  |  |  |  |
+| [Self-Supervised Sparse Representation for Video Anomaly Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730727.pdf) | [S3R](https://github.com/louisYen/S3R) | ShanghaiTech, UCF-Crime, XD-Violence |  |  |  |  |
 | []() | []() |  |  |  |  |  |
 | []() | []() |  |  |  |  |  |
 | []() | []() |  |  |  |  |  |
