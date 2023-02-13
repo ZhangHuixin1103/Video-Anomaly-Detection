@@ -56,6 +56,8 @@ https://docs.google.com/document/d/1gzF_MX23FH7GLBQUonJaQUyu-8-0hov1BHAe2_zI-zY/
 
 ## Paper
 
+>Unsupervised models learned solely from normal videos are applicable to any testing anomalies but suffer from a high false positive rate. In contrast, weakly supervised methods are effective in detecting known anomalies but could fail in an open world.
+
 |   Name   |  GitHub  |  Dataset  | Supervised |  Grained  |  Details  | Evaluation |
 | :------: | :------: | :-------: | :--------: | :-------: | :-------: | :--------: |
 | [MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection](https://arxiv.org/pdf/2104.01633.pdf) | [MIST_VAD](https://github.com/fjchange/MIST_VAD) | UCF-Crime, ShanghaiTech | Weakly | Fine | MIST can refine task-specific discriminative representations with only video-level annotations. MIST is composed of 1) a multiple instance clip-level pseudo label generator, and 2) a self-guided attention boosted feature encoder to automatically focus on anomalous regions in frames while extracting task-specific representations. We adopt a self-training scheme to optimize both components and finally obtain a task-specific feature encoder. | AUC-ROC, False Alarm Rate (FAR) |
