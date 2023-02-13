@@ -118,28 +118,28 @@ https://docs.google.com/document/d/1gzF_MX23FH7GLBQUonJaQUyu-8-0hov1BHAe2_zI-zY/
 
 ### CUHK Avenue
 
-|   Model   | Conference | Supervised |  Feature  |  AUC (%)  |  FAR (%)  |
-| :-------: | :--------: | :--------: | :-------: | :-------: | :-------: |
-| [SSMTL](https://arxiv.org/pdf/2011.07491.pdf) | CVPR 21 | Self | -- | 86.9 | -- |
-| [SSPCAB](https://arxiv.org/pdf/2111.09099.pdf) | CVPR 22 | Self | -- | Micro 92.9, Macro 93.5 | -- |
-| [BN-SVP](https://arxiv.org/pdf/2203.12840.pdf) | CVPR 22 | Weakly | C3D | 80.87 | -- |
-| [HF2-VAD](https://arxiv.org/pdf/2108.06852.pdf) | ICCV 21 | Un | -- | 91.1 | -- |
-| [Few-Shot](https://arxiv.org/pdf/2007.07843.pdf) | ECCV 20 | Un | -- | 85.8 | -- |
-| [Cluster](https://cse.buffalo.edu/~jsyuan/papers/2020/ECCV2020-2341-CameraReady.pdf) | ECCV 20 | Un | -- | 86.0 | -- |
-| [Jigsaw](https://arxiv.org/pdf/2207.10172.pdf) | ECCV 22 | Self | -- | 92.2 | -- |
-| [Accurate-Interpretable](https://arxiv.org/pdf/2212.00789.pdf) | -- | Self | -- | Micro 93.3, Macro 96.2 | -- |
+|   Model   | Conference | Supervised |  Feature  |  AUC (%)  |
+| :-------: | :--------: | :--------: | :-------: | :-------: |
+| [SSMTL](https://arxiv.org/pdf/2011.07491.pdf) | CVPR 21 | Self | -- | 86.9 |
+| [SSPCAB](https://arxiv.org/pdf/2111.09099.pdf) | CVPR 22 | Self | -- | Micro 92.9, Macro 93.5 |
+| [BN-SVP](https://arxiv.org/pdf/2203.12840.pdf) | CVPR 22 | Weakly | C3D | 80.87 |
+| [HF2-VAD](https://arxiv.org/pdf/2108.06852.pdf) | ICCV 21 | Un | -- | 91.1 |
+| [Few-Shot](https://arxiv.org/pdf/2007.07843.pdf) | ECCV 20 | Un | -- | 85.8 |
+| [Cluster](https://cse.buffalo.edu/~jsyuan/papers/2020/ECCV2020-2341-CameraReady.pdf) | ECCV 20 | Un | -- | 86.0 |
+| [Jigsaw](https://arxiv.org/pdf/2207.10172.pdf) | ECCV 22 | Self | -- | 92.2 |
+| [Accurate-Interpretable](https://arxiv.org/pdf/2212.00789.pdf) | -- | Self | -- | Micro 93.3, Macro 96.2 |
 
 ### UCSD Ped2
 
-|   Model   | Conference | Supervised |  Feature  |  AUC (%)  |  FAR (%)  |
-| :-------: | :--------: | :--------: | :-------: | :-------: | :-------: |
-| [SSMTL](https://arxiv.org/pdf/2011.07491.pdf) | CVPR 21 | Self | -- | 92.4 | -- |
-| [HF2-VAD](https://arxiv.org/pdf/2108.06852.pdf) | ICCV 21 | Un | -- | 99.3 | -- |
-| [RTFM](https://arxiv.org/pdf/2101.10030.pdf) | ICCV 21 | Weakly | I3D RGB | 98.6 | -- |
-| [Few-Shot](https://arxiv.org/pdf/2007.07843.pdf) | ECCV 20 | Un | -- | 96.2 | -- |
-| [Cluster](https://cse.buffalo.edu/~jsyuan/papers/2020/ECCV2020-2341-CameraReady.pdf) | ECCV 20 | Un | -- | 96.5 | -- |
-| [Jigsaw](https://arxiv.org/pdf/2207.10172.pdf) | ECCV 22 | Self | -- | 99.0 | -- |
-| [Accurate-Interpretable](https://arxiv.org/pdf/2212.00789.pdf) | -- | Self | -- | Micro 99.1, Macro 99.9 | -- |
+|   Model   | Conference | Supervised |  Feature  |  AUC (%)  |
+| :-------: | :--------: | :--------: | :-------: | :-------: |
+| [SSMTL](https://arxiv.org/pdf/2011.07491.pdf) | CVPR 21 | Self | -- | 92.4 |
+| [HF2-VAD](https://arxiv.org/pdf/2108.06852.pdf) | ICCV 21 | Un | -- | 99.3 |
+| [RTFM](https://arxiv.org/pdf/2101.10030.pdf) | ICCV 21 | Weakly | I3D RGB | 98.6 |
+| [Few-Shot](https://arxiv.org/pdf/2007.07843.pdf) | ECCV 20 | Un | -- | 96.2 |
+| [Cluster](https://cse.buffalo.edu/~jsyuan/papers/2020/ECCV2020-2341-CameraReady.pdf) | ECCV 20 | Un | -- | 96.5 |
+| [Jigsaw](https://arxiv.org/pdf/2207.10172.pdf) | ECCV 22 | Self | -- | 99.0 |
+| [Accurate-Interpretable](https://arxiv.org/pdf/2212.00789.pdf) | -- | Self | -- | Micro 99.1, Macro 99.9 |
 
 ### XD-Violence
 
