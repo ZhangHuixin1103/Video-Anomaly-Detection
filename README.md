@@ -18,7 +18,7 @@ https://docs.google.com/document/d/1gzF_MX23FH7GLBQUonJaQUyu-8-0hov1BHAe2_zI-zY/
 
   - How to label the anomaly? For example, what does granularity look like?
 
-  - What is the distribution, e.g., in terms of activity labels.
+  - What is the distribution, e.g., in terms of activity labels?
 
 - training setup
 
