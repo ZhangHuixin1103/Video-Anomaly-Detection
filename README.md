@@ -78,3 +78,92 @@ https://docs.google.com/document/d/1gzF_MX23FH7GLBQUonJaQUyu-8-0hov1BHAe2_zI-zY/
 | [Clustering Driven Deep Autoencoder for Video Anomaly Detection](https://cse.buffalo.edu/~jsyuan/papers/2020/ECCV2020-2341-CameraReady.pdf) | -- | UCSD Ped2, CUHK Avenue, ShanghaiTech | Un | Coarse | We design a convolution autoencoder architecture to separately capture spatial and temporal informative representation. The spatial part reconstructs the last individual frame, while the temporal part takes consecutive frames as input and RGB difference as output to simulate the generation of optical flow. Besides, we design a deep k-means cluster to force the appearance and the motion encoder to extract common factors of variation within the dataset. We use both reconstruction error and cluster distance to evaluate the anomaly. | Frame-level AUC-ROC |
 | [Attribute-based Representations for Accurate and Interpretable Video Anomaly Detection](https://arxiv.org/pdf/2212.00789.pdf) | [Accurate-Interpretable-VAD](https://github.com/talreiss/Accurate-Interpretable-VAD) | UCSD Ped2, CUHK Avenue, ShanghaiTech | Self | Coarse | In every frame, we represent each object using velocity and pose representations, which is followed by density-based anomaly scoring. Combine interpretable attribute-based representations with implicit deep representation. | Frame-level AUROC |
 | [Real-world Video Anomaly Detection by Extracting Salient Features in Videos](https://arxiv.org/pdf/2209.06435.pdf) | -- | UCF-Crime, ShanghaiTech, XD-Violence | Weakly | Coarse | While it is indeed important to learn all segments together, the temporal orders are irrelevant to high accuracy. So do not use MIL framework, but instead use a lightweight model with a self-attention mechanism to automatically extract features that are important for determining normal/abnormal from all input segments. | Frame-level AUC-ROC, Average Precision (AP) |
+
+## Performance Comparison
+
+### UCF-Crime
+
+|   Model   | Conference | Supervised |  Feature  |  AUC (%)  |  FAR (%)  |
+| :-------: | :--------: | :--------: | :-------: | :-------: | :-------: |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+
+### ShanghaiTech
+
+|   Model   | Conference | Supervised |  Feature  |  AUC (%)  |  FAR (%)  |
+| :-------: | :--------: | :--------: | :-------: | :-------: | :-------: |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+
+### CUHK Avenue
+
+|   Model   | Conference | Supervised |  Feature  |  AUC (%)  |  FAR (%)  |
+| :-------: | :--------: | :--------: | :-------: | :-------: | :-------: |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+
+### XD-Violence
+
+|   Model   | Conference | Supervised |  Feature  |  AUC (%)  |  FAR (%)  |
+| :-------: | :--------: | :--------: | :-------: | :-------: | :-------: |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
+| []() |  |  |  |  |  |
