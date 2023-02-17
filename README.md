@@ -110,7 +110,7 @@ https://docs.google.com/document/d/1gzF_MX23FH7GLBQUonJaQUyu-8-0hov1BHAe2_zI-zY/
 | [OpenVAD](https://arxiv.org/pdf/2208.11113.pdf) | ECCV 22 | Weakly | -- | 93.99 | -- |
 | [S3R](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730727.pdf) | ECCV 22 | Weakly | I3D | 97.48 | -- |
 | [Jigsaw](https://arxiv.org/pdf/2207.10172.pdf) | ECCV 22 | Self | -- | 84.3 | -- |
-| [Few-Shot](https://openreview.net/pdf?id=bAE1y8wG-ng) | NeurIPS 22 | Un | -- |  | -- |
+| [Few-Shot](https://openreview.net/pdf?id=bAE1y8wG-ng) | NeurIPS 22 | Un | -- | 81.28 | -- |
 | [Accurate-Interpretable](https://arxiv.org/pdf/2212.00789.pdf) | -- | Self | -- | Micro 85.9, Macro 89.6 | -- |
 | [Real-World](https://arxiv.org/pdf/2209.06435.pdf) | ICIP 22 | Weakly | I3D RGB | 95.72 | -- |
 
@@ -125,7 +125,7 @@ https://docs.google.com/document/d/1gzF_MX23FH7GLBQUonJaQUyu-8-0hov1BHAe2_zI-zY/
 | [Few-Shot](https://arxiv.org/pdf/2007.07843.pdf) | ECCV 20 | Un | -- | 85.8 |
 | [Cluster](https://cse.buffalo.edu/~jsyuan/papers/2020/ECCV2020-2341-CameraReady.pdf) | ECCV 20 | Un | -- | 86.0 |
 | [Jigsaw](https://arxiv.org/pdf/2207.10172.pdf) | ECCV 22 | Self | -- | 92.2 |
-| [Few-Shot](https://openreview.net/pdf?id=bAE1y8wG-ng) | NeurIPS 22 | Un | -- |  | -- |
+| [Few-Shot](https://openreview.net/pdf?id=bAE1y8wG-ng) | NeurIPS 22 | Un | -- | 84.46 |
 | [Accurate-Interpretable](https://arxiv.org/pdf/2212.00789.pdf) | -- | Self | -- | Micro 93.3, Macro 96.2 |
 
 ### UCSD Ped2
@@ -138,7 +138,7 @@ https://docs.google.com/document/d/1gzF_MX23FH7GLBQUonJaQUyu-8-0hov1BHAe2_zI-zY/
 | [Few-Shot](https://arxiv.org/pdf/2007.07843.pdf) | ECCV 20 | Un | -- | 96.2 |
 | [Cluster](https://cse.buffalo.edu/~jsyuan/papers/2020/ECCV2020-2341-CameraReady.pdf) | ECCV 20 | Un | -- | 96.5 |
 | [Jigsaw](https://arxiv.org/pdf/2207.10172.pdf) | ECCV 22 | Self | -- | 99.0 |
-| [Few-Shot](https://openreview.net/pdf?id=bAE1y8wG-ng) | NeurIPS 22 | Un | -- |  | -- |
+| [Few-Shot](https://openreview.net/pdf?id=bAE1y8wG-ng) | NeurIPS 22 | Un | -- | 92.45 |
 | [Accurate-Interpretable](https://arxiv.org/pdf/2212.00789.pdf) | -- | Self | -- | Micro 99.1, Macro 99.9 |
 
 ### XD-Violence
