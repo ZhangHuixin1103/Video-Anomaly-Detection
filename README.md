@@ -80,7 +80,7 @@ https://docs.google.com/document/d/1gzF_MX23FH7GLBQUonJaQUyu-8-0hov1BHAe2_zI-zY/
 
 ### UCF-Crime
 
-|   Model   | Conference | Supervised |  Feature  |  AUC (%)  |  FAR (%)  |
+|   Model   | Conference | Supervised |  Feature  |  AUC-ROC (%)  |  FAR (%)  |
 | :-------: | :--------: | :--------: | :-------: | :-------: | :-------: |
 | [MIST](https://arxiv.org/pdf/2104.01633.pdf) | CVPR 21 | Weakly | I3D RGB | 82.30 | 0.13 |
 | [BN-SVP](https://arxiv.org/pdf/2203.12840.pdf) | CVPR 22 | Weakly | I3D | 83.39 | -- |
@@ -94,7 +94,7 @@ https://docs.google.com/document/d/1gzF_MX23FH7GLBQUonJaQUyu-8-0hov1BHAe2_zI-zY/
 
 ### ShanghaiTech
 
-|   Model   | Conference | Supervised |  Feature  |  AUC (%)  |  FAR (%)  |
+|   Model   | Conference | Supervised |  Feature  |  AUC-ROC (%)  |  FAR (%)  |
 | :-------: | :--------: | :--------: | :-------: | :-------: | :-------: |
 | [MIST](https://arxiv.org/pdf/2104.01633.pdf) | CVPR 21 | Weakly | I3D RGB | 94.83 | 0.05 |
 | [SSMTL](https://arxiv.org/pdf/2011.07491.pdf) | CVPR 21 | Self | -- | 83.5 | -- |
@@ -116,7 +116,7 @@ https://docs.google.com/document/d/1gzF_MX23FH7GLBQUonJaQUyu-8-0hov1BHAe2_zI-zY/
 
 ### CUHK Avenue
 
-|   Model   | Conference | Supervised |  Feature  |  AUC (%)  |
+|   Model   | Conference | Supervised |  Feature  |  AUC-ROC (%)  |
 | :-------: | :--------: | :--------: | :-------: | :-------: |
 | [SSMTL](https://arxiv.org/pdf/2011.07491.pdf) | CVPR 21 | Self | -- | 86.9 |
 | [SSPCAB](https://arxiv.org/pdf/2111.09099.pdf) | CVPR 22 | Self | -- | Micro 92.9, Macro 93.5 |
@@ -130,7 +130,7 @@ https://docs.google.com/document/d/1gzF_MX23FH7GLBQUonJaQUyu-8-0hov1BHAe2_zI-zY/
 
 ### UCSD Ped2
 
-|   Model   | Conference | Supervised |  Feature  |  AUC (%)  |
+|   Model   | Conference | Supervised |  Feature  |  AUC-ROC (%)  |
 | :-------: | :--------: | :--------: | :-------: | :-------: |
 | [SSMTL](https://arxiv.org/pdf/2011.07491.pdf) | CVPR 21 | Self | -- | 92.4 |
 | [HF2-VAD](https://arxiv.org/pdf/2108.06852.pdf) | ICCV 21 | Un | -- | 99.3 |
